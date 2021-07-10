@@ -1,0 +1,26 @@
+.container{
+    padding: 30px;
+    background-color: rgb(255, 254, 254);
+}
+
+label{
+    font-weight: bolder;
+}
+
+span{
+    color: red;
+}
+
+.btn{
+    border: none;
+    border-radius: 0px !important;
+    padding: 10px;
+}
+
+.name{
+    width: 300px;
+}
+
+.email{
+    width: 620px;
+}
